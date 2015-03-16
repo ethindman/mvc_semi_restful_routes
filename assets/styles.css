@@ -1,0 +1,22 @@
+div.header {
+	margin-top: 5px;
+}
+input.link
+{
+	background: none;
+	border: none;
+	color: #18bc9c;
+}
+input.link:hover {
+	text-decoration: underline;
+}
+form.link {
+	display: inline-block;
+}
+a {
+	margin: 0px 5px;
+}
+td.center
+{
+	text-align: center;
+}
